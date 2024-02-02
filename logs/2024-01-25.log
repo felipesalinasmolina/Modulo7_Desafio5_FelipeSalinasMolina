@@ -1,0 +1,24 @@
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:01:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"stock":3}}
+Completed: 404 message:  Time response: 17 ms Request ID: [6b1e4eef-0544-486e-bbdf-7a8c94b03a31]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:11:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"stock":3}}
+Completed: 404 message:  Time response: 18 ms Request ID: [fa59a496-6fd9-46a6-af72-724fa5289cc1]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:11:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"stock":3}}
+Completed: 404 message:  Time response: 5 ms Request ID: [b358eb0b-df8b-49ad-ad36-241d57f69e85]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:11:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"stock":3}}
+Completed: 404 message:  Time response: 4 ms Request ID: [1d11df9a-ee9f-422e-9b52-ac5884a885a2]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:11:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"metal":"oro"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c250eac8-aa61-46b0-9d20-e6f2012f25c0]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Wed Jan 24 2024 21:12:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"page":3,"items":1,"filters":{"metal":"oro"}}
+Completed: 404 message:  Time response: 16 ms Request ID: [cbba44e3-2508-4225-aa60-b0a791c9b9a3]
